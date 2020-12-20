@@ -1,0 +1,16 @@
+{
+    "organizations": [
+        {
+            "name": "ABC Inc",
+            "orgCode": "U23V",
+            "orgId": "e17d0f3e-90af-458d-b304-5de9ef2e71d3",
+            "creationDate": ""
+        },
+        {
+            "name": "XYZ Corp",
+            "orgCode": "AXM7",
+            "orgId": "d548ddae-2162-4996-a151-90a8c61b96d6",
+            "creationDate": ""
+        }
+    ]
+}
